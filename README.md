@@ -17,7 +17,7 @@ We act as Walmart's data science consultants for Hurricane Helene (landfall near
 ## How to run
  
 1. Open `Midterm_teamRamen_notebook.ipynb` in Google Colab:
-   https://colab.research.google.com/github/zhang-dny/walmart-hurricane-project/blob/main/notebooks/team_notebook.ipynb
+   https://colab.research.google.com/github/zhang-dny/walmart-hurricane-project/blob/main/Midterm_teamRamen_notebook.ipynb
 2. Choose **Runtime > Restart session and run all**. It takes about a minute.
 3. The notebook clones this repo, so the `data/` folder is found automatically. It needs internet access for the live weather call and prints which weather source it used.
 Libraries: `pandas`, `numpy`, `matplotlib`, `requests`, `sqlite3` (all preinstalled in Colab).
